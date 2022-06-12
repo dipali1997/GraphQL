@@ -7,5 +7,6 @@ namespace GraphQLProject.Interfaces
     {
         List<Menu> GetMenus();
         Menu AddMenu(Menu menu);
+        
     }
 }
